@@ -18,6 +18,7 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
+  gap: 16px;
 
 }
 
@@ -30,5 +31,5 @@ a {
 }
 
 .left-links {
- align-items: left;
+ 
 }
