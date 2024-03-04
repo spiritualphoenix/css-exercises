@@ -3,6 +3,7 @@
   background: papayawhip;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .logo {
@@ -28,7 +29,6 @@ a {
   text-decoration: none;
 }
 
-.left-links ul {
+.left-links {
  align-items: left;
- padding-left: -40px;
 }
