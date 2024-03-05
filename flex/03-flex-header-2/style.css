@@ -52,6 +52,7 @@ ul {
   flex-direction: row;
 }
 
-.links {
-  
+.right-side {
+  display: flex;
+  margin-left: auto;
 }
