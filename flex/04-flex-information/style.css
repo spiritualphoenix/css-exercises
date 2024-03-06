@@ -24,3 +24,8 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.imgs {
+  display: flex;
+  justify-content: center;
+}
