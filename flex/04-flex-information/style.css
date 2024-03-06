@@ -12,9 +12,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  display: flex;
-  justify-content: center;
-  padding-bottom: 32px;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -28,4 +26,14 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.info {
+  max-width: 200px;
 }
