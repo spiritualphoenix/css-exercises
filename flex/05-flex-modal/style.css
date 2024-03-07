@@ -80,3 +80,8 @@ gap: 8px;
   font-weight: bold;
   font-size: 20px;
 }
+
+.cb-box {
+  display: flex;
+  
+}
