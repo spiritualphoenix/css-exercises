@@ -34,7 +34,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-
 }
 
 .close-button {
@@ -50,6 +49,7 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
+
 }
 
 button {
@@ -71,6 +71,7 @@ button.cancel {
 }
 
 .icon_box {
+display: flex;
 justify-content: flex-start;
 gap: 8px;
 }
