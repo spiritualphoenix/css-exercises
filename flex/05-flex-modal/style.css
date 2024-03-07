@@ -74,3 +74,8 @@ button.cancel {
 justify-content: flex-start;
 gap: 8px;
 }
+
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
