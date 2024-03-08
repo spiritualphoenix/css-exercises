@@ -30,7 +30,8 @@ input {
 .header ul {
   display: flex;
   list-style-type: none;
-  gap: 16px;  
+  gap: 16px;
+  padding: 16px;  
 }
 
 .left-links {
