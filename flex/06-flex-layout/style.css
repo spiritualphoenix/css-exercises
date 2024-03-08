@@ -4,7 +4,7 @@ body {
   height: 100vh;
   margin: 0;
   overflow: hidden;
-  font-family: Roboto, sans-serif;
+  font-family: Roboto, sans-serif; 
 }
 
 img {
@@ -31,13 +31,22 @@ input {
   display: flex;
   list-style-type: none;
   gap: 16px;
-  padding: 16px;  
+  padding: 16px;
 }
 
 .left-links {
-  justify-content: flex-start;
+  justify-content: flex-start; 
 }
 
 .right-links {
   justify-content: flex-end;
 }
+
+.footer ul {
+  display: flex;
+  list-style-type: none;
+  gap: 16px;
+  padding: 16px;
+}
+
+
