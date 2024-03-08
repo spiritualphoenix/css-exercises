@@ -35,11 +35,14 @@ input {
 }
 
 .left-links {
-  justify-content: flex-start; 
+  justify-content: left;
+  align-self: flex-start;
+  margin: auto;
 }
 
 .right-links {
-  justify-content: flex-end;
+  justify-content: right;
+  margin: none;
 }
 
 .footer ul {
@@ -49,4 +52,6 @@ input {
   padding: 16px;
 }
 
-
+a {
+  text-decoration: none;
+}
